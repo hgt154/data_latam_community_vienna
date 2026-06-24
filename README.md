@@ -4,7 +4,7 @@
 
 Análise exploratória em R sobre a presença de comunidades latino-americanas registradas em Viena nas últimas duas décadas, desenvolvida para a campanha **"Conhecimentos sobre migração"** do projeto [Viena Latina](https://www.instagram.com/vienalatina), em parceria com a Akademie der bildenden Künste Wien, o Österreichisches Lateinamerika-Institut e o Wien Museum, com apoio da União Europeia.
 
-📄 **[Ver apresentação completa (PDF)](docs/latam_community_vienna_presentation.pdf)** — infográficos em espanhol, português e alemão.
+📄 **[Ver apresentação completa (PDF)](latam_community_vienna_presentation.pdf)** — infográficos em espanhol, português e alemão.
 
 ---
 
