@@ -27,10 +27,10 @@ Importante: os números representam **estoque populacional registrado** (pessoas
 
 | | |
 |---|---|
-| ![Gráfico de barras por país e sexo](plots/bar_graph_men_women_country.png) | ![Gráfico de linha por país e ano](plots/line_graph_pop_country_year.png) |
+| ![Gráfico de barras por país e sexo](bar_graph_men_women_country.png) | ![Gráfico de linha por país e ano](line_graph_pop_country_year.png) |
 | População por país e sexo (2002–2024) | Evolução da população por país (2002–2024) |
 
-![Gráfico de pizza - percentual por país](plots/pie_chart_total_country.png)
+![Gráfico de pizza - percentual por país](pie_chart_total_country.png)
 *Distribuição percentual entre os 10 principais países de origem*
 
 ## Estrutura do repositório
@@ -77,4 +77,4 @@ Dados: Magistrat Wien – MA23, [wien.gv.at](https://www.wien.gv.at/kontakte/ma2
 
 ---
 
-*Disclaimer (conforme publicação original): dados estatísticos complementam, mas não substituem, outras formas de compreender a complexidade dos processos migratórios — números deixam de fora dinâmicas invisíveis e experiências pessoais que não podem ser quantificadas.*
+*Disclaimer (conforme publicação original): dados estatísticos complementam, mas não substituem, outras formas de compreender a complexidade dos processos migratórios; números deixam de fora dinâmicas invisíveis e experiências pessoais que não podem ser quantificadas.*
